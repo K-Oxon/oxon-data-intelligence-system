@@ -1,0 +1,3 @@
+[submodule "airbyte/airbyte"]
+	path = airbyte/airbyte
+	url = https://github.com/airbytehq/airbyte.git
